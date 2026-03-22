@@ -8,7 +8,7 @@
   "server": {
     "ip": "Il_Cancelliere.aternos.me",
     "port": 12425,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
