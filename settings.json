@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Il_Cancelliere.aternos.me",
-    "port": 12425,
+    "ip": "Il_Cancelliere.aternos.me:12425",
+    "port": "12425",
     "version": "1.21.11"
   },
   "position": {
